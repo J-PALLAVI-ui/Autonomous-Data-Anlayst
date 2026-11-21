@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Segment,Region,Category,Sub_Category,Order_Priority,Quantity,Discount,Sales,Profit,Shipping_Cost
+ORD-2025-1000,2025-01-03,CUST-303,Consumer,Europe,Technology,Laptops,High,2,0.15,919.26,151.18,15.56
+ORD-2025-1001,2025-01-01,CUST-147,Consumer,Latin America,Electronics,Microphones,Critical,11,0.1,2943.8,451.17,43.51
+ORD-2025-1002,2025-01-04,CUST-141,Consumer,North America,Furniture,Bookcases,High,6,0.05,2994.08,784.7,47.26
+ORD-2025-1003,2025-01-05,CUST-126,Small Business,Asia-Pacific,Furniture,Bookcases,Medium,9,0.0,3786.3,1071.8,40.48
+ORD-2025-1004,2025-01-03,CUST-173,Corporate,Asia-Pacific,Office Supplies,Envelopes,Critical,1,0.1,79.49,12.03,45.4
+ORD-2025-1005,2025-01-04,CUST-209,Corporate,Asia-Pacific,Office Supplies,Pens,Medium,11,0.05,952.73,229.92,34.84
+ORD-2025-1006,2025-01-07,CUST-348,Consumer,Asia-Pacific,Electronics,4K Monitors,Low,10,0.2,1616.94,209.65,29.12
+ORD-2025-1007,2025-01-06,CUST-279,Consumer,Asia-Pacific,Electronics,Microphones,Low,7,0.05,2151.38,443.63,33.54
+ORD-2025-1008,2025-01-08,CUST-269,Consumer,Europe,Electronics,Microphones,Medium,10,0.2,2653.89,250.9,44.33
+ORD-2025-1009,2025-01-09,CUST-131,Consumer,North America,Office Supplies,Envelopes,Critical,9,0.0,667.56,154.85,50.57
+ORD-2025-1010,2025-01-10,CUST-333,Consumer,North America,Electronics,Headphones,Medium,10,0.1,2002.23,453.4,56.08
+ORD-2025-1011,2025-01-10,CUST-125,Corporate,Latin America,Office Supplies,Paper,Medium,9,0.1,519.25,102.36,42.71
+ORD-2025-1012,2025-01-09,CUST-124,Consumer,Europe,Office Supplies,Envelopes,Critical,10,0.1,577.02,134.67,23.93
+ORD-2025-1013,2025-01-12,CUST-174,Corporate,Asia-Pacific,Technology,Smartphones,Critical,11,0.0,6626.99,1675.37,43.81
+ORD-2025-1014,2025-01-11,CUST-122,Consumer,Europe,Electronics,Headphones,Low,3,0.1,14500.0,4850.0,35.57
+ORD-2025-1015,2025-01-11,CUST-325,Consumer,North America,Electronics,Keyboards,Medium,11,0.05,2934.85,425.53,38.43
+ORD-2025-1016,2025-01-13,CUST-156,Consumer,North America,Office Supplies,Paper,Medium,5,0.1,266.89,35.27,36.01
+ORD-2025-1017,2025-01-13,CUST-279,Small Business,Europe,Electronics,Headphones,Low,8,0.0,1708.14,377.76,28.77
+ORD-2025-1018,2025-01-14,CUST-331,Small Business,Europe,Office Supplies,Envelopes,Medium,8,0.2,588.2,83.67,42.57
+ORD-2025-1019,2025-01-15,CUST-225,Small Business,North America,Technology,Software,Medium,4,0.0,3632.63,1053.51,35.83
+ORD-2025-1020,2025-01-15,CUST-186,Consumer,Europe,Technology,Laptops,High,11,0.15,4585.5,736.67,50.49
+ORD-2025-1021,2025-01-15,CUST-320,Consumer,North America,Technology,Cloud Storage,High,11,0.2,6753.48,786.51,43.48
+ORD-2025-1022,2025-01-17,CUST-130,Corporate,Europe,Furniture,Bookcases,High,1,0.15,401.44,73.63,23.4
+ORD-2025-1023,2025-01-18,CUST-163,Consumer,North America,Technology,Smartphones,Medium,1,0.05,769.21,156.99,34.45
+ORD-2025-1024,2025-01-17,CUST-298,Small Business,Asia-Pacific,Office Supplies,Binders,Medium,4,0.05,317.15,45.63,37.92
+ORD-2025-1025,2025-01-18,CUST-331,Consumer,North America,Furniture,Bookcases,Low,6,0.3,1450.32,27.27,34.33
+ORD-2025-1026,2025-01-19,CUST-132,Consumer,Europe,Office Supplies,Binders,High,8,0.0,671.57,132.48,43.17
+ORD-2025-1027,2025-01-21,CUST-312,Consumer,North America,Furniture,Lamps,Medium,6,0.05,2046.72,525.84,51.35
+ORD-2025-1028,2025-01-22,CUST-101,Consumer,North America,Office Supplies,Paper,Medium,9,0.1,762.1,157.33,49.39
+ORD-2025-1029,2025-01-23,CUST-117,Corporate,North America,Furniture,Lamps,Medium,9,0.1,2772.82,393.85,38.73
+ORD-2025-1030,2025-01-23,CUST-274,Consumer,Europe,Technology,Smartphones,Medium,2,0.0,1678.78,517.22,18.0
+ORD-2025-1031,2025-01-24,CUST-260,Consumer,Europe,Furniture,Tables,High,10,0.1,4773.15,918.29,45.6
+ORD-2025-1032,2025-01-24,CUST-328,Consumer,North America,Office Supplies,Paper,Medium,1,0.15,49.17,2.96,30.53
+ORD-2025-1033,2025-01-25,CUST-325,Consumer,Europe,Furniture,Ergonomic Chairs,Critical,2,0.0,916.61,192.04,31.59
+ORD-2025-1034,2025-01-26,CUST-183,Corporate,Asia-Pacific,Electronics,Webcams,High,5,0.2,1295.56,164.42,49.81
+ORD-2025-1035,2025-01-26,CUST-134,Small Business,Asia-Pacific,Technology,Accessories,High,4,0.0,2615.91,587.34,41.73
+ORD-2025-1036,2025-01-28,CUST-278,Small Business,North America,Furniture,Tables,Medium,4,0.05,1518.77,227.45,24.46
+ORD-2025-1037,2025-01-28,CUST-213,Corporate,Europe,Electronics,4K Monitors,Low,9,0.0,2252.9,497.78,33.79
+ORD-2025-1038,2025-01-27,CUST-345,Consumer,North America,Furniture,Tables,Medium,11,0.0,3994.59,742.23,48.07
+ORD-2025-1039,2025-01-30,CUST-245,Corporate,North America,Furniture,Bookcases,Medium,8,0.2,2840.83,288.27,27.12
+ORD-2025-1040,2025-01-29,CUST-209,Consumer,Latin America,Office Supplies,Envelopes,Medium,6,0.05,354.55,79.51,39.19
+ORD-2025-1041,2025-01-31,CUST-187,Consumer,North America,Office Supplies,Paper,Medium,1,0.05,68.2,12.72,43.28
+ORD-2025-1042,2025-02-01,CUST-171,Small Business,Europe,Office Supplies,Storage Boxes,Critical,2,0.0,128.42,31.31,36.09
+ORD-2025-1043,2025-01-31,CUST-224,Consumer,Europe,Technology,Smartphones,High,6,0.05,4187.08,779.07,33.12
+ORD-2025-1044,2025-01-31,CUST-129,Small Business,Asia-Pacific,Technology,Accessories,High,11,0.05,8871.93,1565.35,29.76
+ORD-2025-1045,2025-02-03,CUST-271,Consumer,Europe,Office Supplies,Envelopes,High,2,0.05,119.7,30.7,14.29
+ORD-2025-1046,2025-02-03,CUST-152,Corporate,North America,Electronics,Keyboards,Critical,10,0.0,3466.05,886.41,59.44
+ORD-2025-1047,2025-02-02,CUST-237,Corporate,North America,Office Supplies,Storage Boxes,Critical,5,0.2,365.9,26.85,22.84
+ORD-2025-1048,2025-02-04,CUST-186,Small Business,Europe,Technology,Cloud Storage,High,5,0.05,2671.98,457.17,41.77
+ORD-2025-1049,2025-02-05,CUST-279,Corporate,North America,Office Supplies,Pens,Low,6,0.05,348.66,64.61,33.6
+ORD-2025-1050,2025-02-06,CUST-276,Corporate,North America,Office Supplies,Binders,High,6,0.0,541.81,111.89,17.19
+ORD-2025-1051,2025-02-05,CUST-238,Consumer,North America,Technology,Smartphones,High,6,0.15,2625.7,470.44,40.96
+ORD-2025-1052,2025-02-07,CUST-293,Corporate,North America,Furniture,Ergonomic Chairs,High,2,0.05,679.49,110.29,21.89
+ORD-2025-1053,2025-02-07,CUST-285,Consumer,North America,Furniture,Tables,Medium,10,0.05,2997.59,807.29,52.02
+ORD-2025-1054,2025-02-08,CUST-317,Corporate,North America,Furniture,Bookcases,High,3,0.0,1223.99,368.54,21.73
+ORD-2025-1055,2025-02-10,CUST-263,Corporate,Europe,Furniture,Tables,High,6,0.3,1998.17,89.64,30.2
+ORD-2025-1056,2025-02-11,CUST-260,Corporate,Europe,Technology,Accessories,Medium,8,0.0,6657.17,1473.3,31.06
+ORD-2025-1057,2025-02-09,CUST-274,Consumer,Asia-Pacific,Technology,Software,Critical,11,0.15,5013.57,572.09,51.5
+ORD-2025-1058,2025-02-12,CUST-112,Consumer,North America,Technology,Cloud Storage,Critical,1,0.05,869.54,193.07,41.44
+ORD-2025-1059,2025-02-13,CUST-139,Corporate,North America,Electronics,Keyboards,High,1,0.0,318.18,64.99,27.48
+ORD-2025-1060,2025-02-13,CUST-188,Consumer,North America,Electronics,Headphones,Critical,11,0.15,1866.66,276.27,59.65
+ORD-2025-1061,2025-02-12,CUST-167,Consumer,Europe,Furniture,Executive Desks,Critical,2,0.0,642.93,181.78,34.39
+ORD-2025-1062,2025-02-14,CUST-141,Consumer,Asia-Pacific,Electronics,4K Monitors,High,11,0.2,2446.8,158.1,37.64
+ORD-2025-1063,2025-02-15,CUST-246,Small Business,North America,Office Supplies,Pens,Medium,6,0.2,243.88,9.88,17.56
+ORD-2025-1064,2025-02-15,CUST-309,Corporate,Latin America,Furniture,Lamps,Medium,9,0.2,3165.53,78.57,53.8
+ORD-2025-1065,2025-02-16,CUST-328,Consumer,North America,Furniture,Bookcases,Medium,4,0.0,1696.62,471.59,29.2
+ORD-2025-1066,2025-02-17,CUST-193,Consumer,Europe,Technology,Smartphones,High,3,0.15,1893.54,349.31,15.56
+ORD-2025-1067,2025-02-17,CUST-118,Consumer,Asia-Pacific,Technology,Smartphones,Low,8,0.05,4583.12,1130.65,23.65
+ORD-2025-1068,2025-02-18,CUST-285,Corporate,Asia-Pacific,Office Supplies,Envelopes,High,11,0.2,459.29,27.84,27.91
+ORD-2025-1069,2025-02-18,CUST-122,Corporate,Asia-Pacific,Office Supplies,Storage Boxes,Critical,10,0.1,678.34,85.93,56.14
+ORD-2025-1070,2025-02-21,CUST-153,Consumer,Asia-Pacific,Technology,Software,Medium,9,0.15,6456.54,971.44,44.33
+ORD-2025-1071,2025-02-20,CUST-307,Consumer,North America,Electronics,Microphones,Critical,11,0.05,3396.9,573.15,56.81
+ORD-2025-1072,2025-02-21,CUST-164,Consumer,Asia-Pacific,Office Supplies,Pens,High,5,0.05,402.19,97.43,36.27
+ORD-2025-1073,2025-02-22,CUST-239,Corporate,North America,Technology,Laptops,Medium,9,0.0,5395.87,1291.21,50.86
+ORD-2025-1074,2025-02-22,CUST-123,Corporate,Asia-Pacific,Electronics,Headphones,Low,2,0.15,315.08,51.04,19.88
+ORD-2025-1075,2025-02-23,CUST-133,Consumer,Europe,Electronics,Microphones,High,3,0.05,582.1,89.47,13.51
+ORD-2025-1076,2025-02-24,CUST-152,Consumer,Asia-Pacific,Electronics,Keyboards,Medium,7,0.05,1781.95,299.47,55.11
+ORD-2025-1077,2025-02-25,CUST-348,Consumer,Europe,Technology,Accessories,Low,7,0.15,4455.77,319.94,43.98
+ORD-2025-1078,2025-02-26,CUST-235,Small Business,Europe,Office Supplies,Storage Boxes,Critical,6,0.05,510.7,123.5,19.83
+ORD-2025-1079,2025-02-26,CUST-117,Consumer,Europe,Furniture,Executive Desks,High,6,0.0,3139.83,914.16,22.86
+ORD-2025-1080,2025-02-28,CUST-156,Corporate,Asia-Pacific,Office Supplies,Storage Boxes,High,2,0.05,97.1,20.93,16.77
+ORD-2025-1081,2025-02-26,CUST-211,Corporate,North America,Electronics,4K Monitors,High,10,0.05,3042.01,570.88,56.78
+ORD-2025-1082,2025-02-28,CUST-104,Consumer,North America,Office Supplies,Binders,High,6,0.05,424.59,69.24,22.17
+ORD-2025-1083,2025-02-28,CUST-253,Consumer,North America,Electronics,Webcams,Low,4,0.0,1107.39,317.45,42.92
+ORD-2025-1084,2025-02-28,CUST-257,Consumer,North America,Electronics,4K Monitors,Medium,3,0.0,678.98,141.63,13.12
+ORD-2025-1085,2025-03-02,CUST-281,Corporate,Asia-Pacific,Electronics,Headphones,Medium,11,0.0,3235.16,617.01,40.07
+ORD-2025-1086,2025-03-04,CUST-112,Corporate,North America,Furniture,Bookcases,High,2,0.1,801.09,181.2,22.54
+ORD-2025-1087,2025-03-02,CUST-182,Corporate,Latin America,Technology,Laptops,Medium,1,0.0,601.15,163.26,32.41
+ORD-2025-1088,2025-03-04,CUST-128,Corporate,North America,Furniture,Ergonomic Chairs,Low,11,0.05,5200.0,-1850.0,55.76
+ORD-2025-1089,2025-03-04,CUST-102,Consumer,North America,Electronics,Headphones,Medium,11,0.2,1915.14,83.27,43.46
+ORD-2025-1090,2025-03-04,CUST-189,Small Business,Asia-Pacific,Technology,Cloud Storage,Critical,5,0.0,4197.38,781.41,41.15
+ORD-2025-1091,2025-03-05,CUST-203,Corporate,Europe,Furniture,Ergonomic Chairs,Medium,2,0.05,869.12,147.67,36.21
+ORD-2025-1092,2025-03-06,CUST-222,Consumer,Europe,Technology,Laptops,Critical,2,0.15,1555.98,91.88,22.83
+ORD-2025-1093,2025-03-09,CUST-285,Small Business,Europe,Office Supplies,Envelopes,High,7,0.2,384.65,52.27,54.1
+ORD-2025-1094,2025-03-07,CUST-349,Corporate,Asia-Pacific,Electronics,Keyboards,Critical,8,0.1,1833.2,366.65,39.67
+ORD-2025-1095,2025-03-08,CUST-175,Corporate,North America,Electronics,Headphones,Medium,10,0.1,2433.13,325.88,31.03
+ORD-2025-1096,2025-03-09,CUST-229,Corporate,Latin America,Technology,Smartphones,Medium,8,0.15,4206.09,548.41,21.08
+ORD-2025-1097,2025-03-11,CUST-302,Small Business,Latin America,Electronics,Microphones,Critical,4,0.05,1263.19,201.33,22.14
+ORD-2025-1098,2025-03-10,CUST-207,Corporate,Europe,Office Supplies,Pens,High,1,0.15,61.48,9.34,13.04
+ORD-2025-1099,2025-03-11,CUST-255,Consumer,North America,Furniture,Executive Desks,High,11,0.0,4064.57,1282.84,34.21
+ORD-2025-1100,2025-03-14,CUST-181,Consumer,Europe,Office Supplies,Pens,High,7,0.2,352.77,44.84,20.36
+ORD-2025-1101,2025-03-14,CUST-176,Small Business,North America,Furniture,Bookcases,Critical,1,0.05,388.16,74.0,21.21
+ORD-2025-1102,2025-03-15,CUST-328,Consumer,North America,Furniture,Executive Desks,High,11,0.05,3772.41,566.96,36.15
+ORD-2025-1103,2025-03-14,CUST-313,Consumer,North America,Office Supplies,Pens,Medium,4,0.0,202.84,58.69,28.73
+ORD-2025-1104,2025-03-16,CUST-303,Consumer,Europe,Technology,Smartphones,Critical,8,0.1,4964.23,1092.64,44.35
+ORD-2025-1105,2025-03-17,CUST-101,Consumer,Asia-Pacific,Furniture,Lamps,Critical,2,0.0,574.29,179.2,19.77
+ORD-2025-1106,2025-03-16,CUST-226,Corporate,Asia-Pacific,Furniture,Ergonomic Chairs,High,6,0.2,1505.4,176.94,35.52
+ORD-2025-1107,2025-03-18,CUST-328,Small Business,Asia-Pacific,Technology,Smartphones,Low,6,0.15,3492.81,305.38,37.26
+ORD-2025-1108,2025-03-17,CUST-234,Consumer,Europe,Furniture,Ergonomic Chairs,Medium,9,0.0,3221.88,986.61,29.46
+ORD-2025-1109,2025-03-19,CUST-125,Consumer,North America,Office Supplies,Pens,Medium,5,0.15,378.2,49.47,46.15
+ORD-2025-1110,2025-03-21,CUST-317,Consumer,North America,Office Supplies,Paper,High,10,0.15,690.07,103.54,35.0
+ORD-2025-1111,2025-03-20,CUST-187,Small Business,Latin America,Office Supplies,Binders,Medium,4,0.1,213.81,26.62,45.72
+ORD-2025-1112,2025-03-20,CUST-303,Corporate,North America,Electronics,Keyboards,Critical,5,0.05,1509.7,300.7,20.4
+ORD-2025-1113,2025-03-23,CUST-115,Consumer,Asia-Pacific,Office Supplies,Pens,Medium,10,0.0,661.42,176.41,39.81
+ORD-2025-1114,2025-03-21,CUST-250,Small Business,Europe,Office Supplies,Binders,Low,11,0.0,926.73,296.25,31.57
+ORD-2025-1115,2025-03-23,CUST-267,Small Business,Europe,Technology,Cloud Storage,Medium,5,0.0,3483.21,837.15,26.77
+ORD-2025-1116,2025-03-23,CUST-287,Small Business,Asia-Pacific,Furniture,Bookcases,Low,8,0.2,2161.24,41.49,52.82
+ORD-2025-1117,2025-03-25,CUST-172,Small Business,Europe,Furniture,Ergonomic Chairs,Medium,10,0.0,3966.8,989.98,56.93
+ORD-2025-1118,2025-03-26,CUST-131,Consumer,Asia-Pacific,Technology,Accessories,Critical,8,0.15,5716.84,404.58,40.92
+ORD-2025-1119,2025-03-26,CUST-114,Corporate,Latin America,Furniture,Executive Desks,Low,2,0.0,805.28,234.83,37.8
+ORD-2025-1120,2025-03-26,CUST-328,Consumer,Europe,Furniture,Lamps,Critical,7,0.05,3116.51,577.1,48.28
+ORD-2025-1121,2025-03-28,CUST-240,Small Business,North America,Electronics,Microphones,Medium,8,0.15,1283.85,96.09,32.42
+ORD-2025-1122,2025-03-28,CUST-104,Corporate,Europe,Electronics,4K Monitors,Critical,11,0.2,1697.55,72.82,55.22
+ORD-2025-1123,2025-03-30,CUST-302,Corporate,Latin America,Office Supplies,Pens,Critical,6,0.0,551.37,122.76,26.79
+ORD-2025-1124,2025-03-30,CUST-173,Corporate,North America,Furniture,Executive Desks,High,5,0.05,1707.39,301.15,16.83
+ORD-2025-1125,2025-03-29,CUST-151,Consumer,Europe,Technology,Cloud Storage,High,11,0.05,9501.63,1590.74,40.04
+ORD-2025-1126,2025-04-01,CUST-176,Corporate,Europe,Electronics,4K Monitors,High,9,0.0,1634.65,490.58,48.55
+ORD-2025-1127,2025-03-30,CUST-268,Small Business,Asia-Pacific,Electronics,Headphones,Medium,3,0.0,1017.17,294.4,24.11
+ORD-2025-1128,2025-04-02,CUST-280,Small Business,North America,Technology,Cloud Storage,Critical,10,0.05,5702.68,1341.16,36.47
+ORD-2025-1129,2025-04-02,CUST-209,Consumer,Asia-Pacific,Office Supplies,Storage Boxes,Critical,4,0.05,283.15,39.18,16.29
+ORD-2025-1130,2025-04-04,CUST-277,Consumer,Latin America,Technology,Smartphones,Medium,9,0.1,5921.85,1031.88,49.3
+ORD-2025-1131,2025-04-02,CUST-242,Consumer,North America,Technology,Smartphones,High,6,0.05,3121.0,653.37,24.19
+ORD-2025-1132,2025-04-03,CUST-205,Corporate,North America,Technology,Software,Medium,8,0.05,4027.27,785.19,26.04
+ORD-2025-1133,2025-04-05,CUST-347,Small Business,Latin America,Technology,Accessories,Medium,7,0.05,3912.93,711.99,28.1
+ORD-2025-1134,2025-04-06,CUST-226,Consumer,North America,Electronics,4K Monitors,Medium,11,0.1,1927.68,207.4,31.65
+ORD-2025-1135,2025-04-07,CUST-106,Corporate,Asia-Pacific,Office Supplies,Envelopes,Medium,2,0.2,81.68,7.98,21.63
+ORD-2025-1136,2025-04-07,CUST-139,Small Business,Europe,Furniture,Tables,High,3,0.05,1024.33,188.46,37.02
+ORD-2025-1137,2025-04-08,CUST-255,Corporate,North America,Office Supplies,Storage Boxes,Medium,1,0.15,75.11,11.93,36.42
+ORD-2025-1138,2025-04-09,CUST-259,Corporate,Asia-Pacific,Electronics,Webcams,High,9,0.0,2352.4,651.93,41.95
+ORD-2025-1139,2025-04-08,CUST-198,Corporate,Europe,Electronics,Headphones,High,7,0.05,1438.6,239.82,29.47
+ORD-2025-1140,2025-04-11,CUST-242,Corporate,Europe,Technology,Cloud Storage,Medium,1,0.0,901.92,231.47,36.65
+ORD-2025-1141,2025-04-11,CUST-339,Consumer,North America,Furniture,Tables,High,3,0.05,1074.98,209.17,17.15
+ORD-2025-1142,2025-04-11,CUST-327,Corporate,Europe,Technology,Accessories,Medium,4,0.1,2035.58,429.16,35.64
+ORD-2025-1143,2025-04-12,CUST-184,Corporate,North America,Furniture,Bookcases,Medium,4,0.2,1199.31,146.79,23.12
+ORD-2025-1144,2025-04-11,CUST-297,Small Business,North America,Technology,Software,Low,5,0.0,4657.97,1063.3,27.98
+ORD-2025-1145,2025-04-14,CUST-164,Corporate,Latin America,Office Supplies,Paper,Low,3,0.1,169.94,19.05,16.61
+ORD-2025-1146,2025-04-15,CUST-231,Corporate,North America,Furniture,Bookcases,High,3,0.05,1303.58,338.95,41.75
+ORD-2025-1147,2025-04-15,CUST-110,Consumer,Europe,Technology,Accessories,High,1,0.0,551.7,141.45,13.41
+ORD-2025-1148,2025-04-14,CUST-207,Consumer,North America,Technology,Smartphones,Medium,7,0.0,3556.76,967.06,38.3
+ORD-2025-1149,2025-04-15,CUST-125,Consumer,Asia-Pacific,Furniture,Tables,High,11,0.0,3375.0,624.01,61.12
+ORD-2025-1150,2025-04-17,CUST-288,Consumer,North America,Technology,Laptops,Medium,10,0.0,5011.6,1213.98,41.67
+ORD-2025-1151,2025-04-16,CUST-264,Corporate,Latin America,Furniture,Executive Desks,Medium,1,0.0,316.2,64.4,22.52
+ORD-2025-1152,2025-04-19,CUST-250,Small Business,Europe,Technology,Software,Medium,2,0.0,1668.13,418.69,34.6
+ORD-2025-1153,2025-04-20,CUST-320,Consumer,North America,Technology,Software,High,4,0.0,3743.02,1076.2,30.07
+ORD-2025-1154,2025-04-18,CUST-184,Consumer,North America,Furniture,Bookcases,High,4,0.1,1453.51,264.0,38.62
+ORD-2025-1155,2025-04-21,CUST-339,Small Business,North America,Office Supplies,Envelopes,High,5,0.05,339.78,77.4,16.37
+ORD-2025-1156,2025-04-22,CUST-336,Consumer,Europe,Technology,Software,Critical,11,0.3,5258.93,-189.05,29.28
+ORD-2025-1157,2025-04-20,CUST-336,Corporate,North America,Technology,Accessories,Low,2,0.05,1012.31,224.68,30.37
+ORD-2025-1158,2025-04-21,CUST-340,Corporate,Asia-Pacific,Technology,Laptops,High,4,0.15,2049.79,242.76,32.21
+ORD-2025-1159,2025-04-24,CUST-318,Corporate,Europe,Electronics,Webcams,High,1,0.2,170.21,17.24,38.39
+ORD-2025-1160,2025-04-25,CUST-330,Consumer,North America,Furniture,Tables,Critical,2,0.1,891.95,159.97,29.93
+ORD-2025-1161,2025-04-25,CUST-267,Consumer,Europe,Office Supplies,Envelopes,Medium,1,0.05,48.95,8.7,12.95
+ORD-2025-1162,2025-04-25,CUST-304,Corporate,Asia-Pacific,Electronics,Headphones,Medium,10,0.15,2906.34,207.55,28.62
+ORD-2025-1163,2025-04-26,CUST-250,Corporate,North America,Technology,Laptops,High,10,0.0,8922.57,2785.18,51.34
+ORD-2025-1164,2025-04-26,CUST-222,Consumer,North America,Electronics,Headphones,Critical,4,0.0,723.63,130.39,27.99
+ORD-2025-1165,2025-04-26,CUST-243,Corporate,North America,Office Supplies,Binders,High,4,0.05,210.04,29.42,31.17
+ORD-2025-1166,2025-04-28,CUST-321,Consumer,Asia-Pacific,Technology,Cloud Storage,High,7,0.05,6095.34,1114.44,42.96
+ORD-2025-1167,2025-04-27,CUST-288,Corporate,Europe,Furniture,Ergonomic Chairs,Medium,10,0.0,4584.95,986.46,47.07
+ORD-2025-1168,2025-04-28,CUST-167,Consumer,Europe,Office Supplies,Paper,Medium,11,0.2,514.02,13.92,50.45
+ORD-2025-1169,2025-04-30,CUST-203,Small Business,Asia-Pacific,Furniture,Ergonomic Chairs,High,11,0.1,3120.24,731.91,31.29
+ORD-2025-1170,2025-04-30,CUST-179,Consumer,Asia-Pacific,Electronics,4K Monitors,High,9,0.05,2392.43,466.75,26.18
+ORD-2025-1171,2025-05-01,CUST-258,Consumer,Europe,Furniture,Ergonomic Chairs,Low,9,0.2,2105.33,204.6,51.35
+ORD-2025-1172,2025-05-03,CUST-152,Consumer,Asia-Pacific,Office Supplies,Pens,High,5,0.05,413.54,84.81,44.27
+ORD-2025-1173,2025-05-03,CUST-205,Consumer,North America,Furniture,Bookcases,Medium,10,0.3,3247.84,85.73,41.23
+ORD-2025-1174,2025-05-04,CUST-252,Small Business,North America,Electronics,Headphones,Critical,1,0.05,272.09,68.1,24.22
+ORD-2025-1175,2025-05-03,CUST-143,Small Business,North America,Office Supplies,Paper,High,1,0.0,85.42,22.46,15.64
+ORD-2025-1176,2025-05-06,CUST-239,Consumer,North America,Technology,Accessories,Critical,6,0.15,2543.53,262.71,37.23
+ORD-2025-1177,2025-05-05,CUST-189,Consumer,Europe,Technology,Accessories,Medium,2,0.1,1565.31,176.64,40.61
+ORD-2025-1178,2025-05-05,CUST-200,Corporate,Latin America,Technology,Smartphones,Low,8,0.15,5985.15,440.48,51.51
+ORD-2025-1179,2025-05-06,CUST-339,Small Business,North America,Technology,Cloud Storage,High,9,0.3,5913.25,158.22,50.54
+ORD-2025-1180,2025-05-06,CUST-196,Corporate,North America,Technology,Software,Critical,4,0.15,3195.86,438.69,25.39
+ORD-2025-1181,2025-05-09,CUST-319,Consumer,Europe,Office Supplies,Storage Boxes,Critical,5,0.1,390.86,70.76,37.0
+ORD-2025-1182,2025-05-09,CUST-108,Consumer,Latin America,Furniture,Bookcases,High,11,0.2,3101.71,359.45,27.52
+ORD-2025-1183,2025-05-09,CUST-111,Corporate,North America,Office Supplies,Binders,High,8,0.1,653.8,91.93,24.73
+ORD-2025-1184,2025-05-09,CUST-168,Consumer,Europe,Electronics,Keyboards,Critical,3,0.05,724.81,103.97,37.83
+ORD-2025-1185,2025-05-10,CUST-281,Corporate,North America,Office Supplies,Envelopes,Medium,5,0.2,359.29,45.71,20.21
+ORD-2025-1186,2025-05-13,CUST-343,Consumer,North America,Office Supplies,Pens,High,3,0.0,163.49,48.05,46.7
+ORD-2025-1187,2025-05-13,CUST-281,Corporate,Latin America,Office Supplies,Storage Boxes,High,10,0.1,627.39,103.43,34.78
+ORD-2025-1188,2025-05-13,CUST-127,Consumer,Latin America,Furniture,Bookcases,Low,3,0.2,1254.9,125.85,23.17
+ORD-2025-1189,2025-05-15,CUST-155,Corporate,North America,Technology,Accessories,Critical,3,0.1,1683.3,369.94,13.0
+ORD-2025-1190,2025-05-14,CUST-198,Consumer,Latin America,Technology,Laptops,Low,7,0.1,3996.35,689.81,23.98
+ORD-2025-1191,2025-05-15,CUST-296,Corporate,Europe,Technology,Cloud Storage,High,7,0.15,3149.96,524.91,51.59
+ORD-2025-1192,2025-05-15,CUST-325,Consumer,Asia-Pacific,Technology,Laptops,Low,7,0.05,5733.9,1509.91,38.97
+ORD-2025-1193,2025-05-16,CUST-209,Corporate,Europe,Technology,Smartphones,Medium,10,0.2,6856.62,437.22,47.65
+ORD-2025-1194,2025-05-18,CUST-325,Corporate,Europe,Electronics,4K Monitors,Medium,8,0.0,2768.99,585.92,34.43
+ORD-2025-1195,2025-05-18,CUST-176,Corporate,Europe,Office Supplies,Paper,Low,5,0.0,352.96,70.35,18.5
+ORD-2025-1196,2025-05-20,CUST-202,Corporate,Europe,Technology,Software,High,5,0.0,4325.12,1369.99,30.47
+ORD-2025-1197,2025-05-20,CUST-205,Corporate,North America,Technology,Accessories,Low,4,0.05,2004.05,294.02,46.98
+ORD-2025-1198,2025-05-20,CUST-208,Small Business,North America,Technology,Cloud Storage,High,7,0.05,4645.26,846.85,36.13
+ORD-2025-1199,2025-05-20,CUST-211,Consumer,North America,Furniture,Ergonomic Chairs,High,10,0.15,3142.19,380.1,54.8
+ORD-2025-1200,2025-05-21,CUST-157,Small Business,Asia-Pacific,Furniture,Tables,High,4,0.05,1681.7,394.78,27.49
+ORD-2025-1201,2025-05-22,CUST-177,Consumer,North America,Electronics,4K Monitors,Medium,2,0.05,577.73,133.36,15.42
+ORD-2025-1202,2025-05-22,CUST-174,Consumer,Europe,Furniture,Executive Desks,High,4,0.0,1749.29,377.75,43.75
+ORD-2025-1203,2025-05-24,CUST-141,Consumer,Latin America,Electronics,4K Monitors,Medium,8,0.05,1911.84,529.11,23.42
+ORD-2025-1204,2025-05-24,CUST-265,Consumer,North America,Electronics,Keyboards,Medium,9,0.1,2519.9,477.06,49.9
+ORD-2025-1205,2025-05-26,CUST-167,Corporate,Europe,Technology,Accessories,Medium,3,0.0,1882.28,468.48,41.97
+ORD-2025-1206,2025-05-26,CUST-280,Corporate,Europe,Office Supplies,Binders,Medium,7,0.0,415.31,87.9,38.89
+ORD-2025-1207,2025-05-27,CUST-132,Corporate,Asia-Pacific,Office Supplies,Paper,High,9,0.0,653.15,143.38,32.53
+ORD-2025-1208,2025-05-26,CUST-170,Corporate,North America,Furniture,Tables,High,11,0.0,3947.97,1137.06,48.62
+ORD-2025-1209,2025-05-27,CUST-155,Consumer,Europe,Furniture,Executive Desks,High,4,0.05,1924.41,527.42,31.54
+ORD-2025-1210,2025-05-28,CUST-204,Consumer,Asia-Pacific,Office Supplies,Binders,High,10,0.0,517.85,96.7,33.94
+ORD-2025-1211,2025-05-28,CUST-299,Consumer,Latin America,Office Supplies,Paper,Critical,3,0.1,246.19,41.42,22.56
+ORD-2025-1212,2025-05-31,CUST-200,Consumer,Europe,Electronics,Headphones,High,5,0.15,1050.01,143.12,39.66
+ORD-2025-1213,2025-05-30,CUST-150,Consumer,Europe,Electronics,Microphones,High,1,0.05,195.57,53.64,29.66
+ORD-2025-1214,2025-05-31,CUST-173,Consumer,Europe,Office Supplies,Binders,Low,3,0.3,115.34,5.78,15.26
+ORD-2025-1215,2025-06-01,CUST-270,Corporate,Asia-Pacific,Electronics,Microphones,Medium,8,0.05,2527.0,700.03,45.92
+ORD-2025-1216,2025-06-02,CUST-220,Corporate,Europe,Office Supplies,Paper,High,11,0.05,875.77,161.77,59.34
+ORD-2025-1217,2025-06-03,CUST-242,Small Business,North America,Office Supplies,Envelopes,Medium,8,0.3,407.97,11.23,54.19
+ORD-2025-1218,2025-06-02,CUST-265,Small Business,Latin America,Office Supplies,Binders,Critical,4,0.0,372.48,110.5,25.21
+ORD-2025-1219,2025-06-03,CUST-242,Corporate,Europe,Technology,Accessories,High,2,0.2,1483.65,145.3,45.43
+ORD-2025-1220,2025-06-04,CUST-104,Consumer,Europe,Office Supplies,Pens,Medium,8,0.0,636.1,141.86,33.69
+ORD-2025-1221,2025-06-06,CUST-320,Corporate,North America,Furniture,Executive Desks,High,8,0.05,3278.83,813.48,31.77
+ORD-2025-1222,2025-06-06,CUST-182,Corporate,Europe,Furniture,Lamps,High,10,0.0,4392.08,1003.1,53.18
+ORD-2025-1223,2025-06-07,CUST-281,Consumer,North America,Electronics,Webcams,Low,4,0.1,930.28,98.37,20.14
+ORD-2025-1224,2025-06-06,CUST-150,Consumer,Europe,Technology,Smartphones,Low,3,0.1,1391.32,229.43,16.43
+ORD-2025-1225,2025-06-08,CUST-109,Small Business,North America,Furniture,Bookcases,Medium,2,0.1,567.65,128.71,43.29
+ORD-2025-1226,2025-06-09,CUST-239,Consumer,Europe,Office Supplies,Binders,Medium,9,0.05,592.69,163.29,21.51
+ORD-2025-1227,2025-06-10,CUST-345,Corporate,Latin America,Office Supplies,Paper,Medium,1,0.05,72.85,16.3,26.43
+ORD-2025-1228,2025-06-11,CUST-103,Corporate,North America,Furniture,Bookcases,High,7,0.0,2734.12,666.45,33.85
+ORD-2025-1229,2025-06-12,CUST-194,Consumer,Latin America,Electronics,Keyboards,High,5,0.0,1513.61,301.13,22.81
+ORD-2025-1230,2025-06-13,CUST-245,Consumer,Europe,Office Supplies,Storage Boxes,Critical,8,0.2,364.57,17.04,39.43
+ORD-2025-1231,2025-06-11,CUST-179,Consumer,Asia-Pacific,Technology,Cloud Storage,High,4,0.05,2044.78,529.69,25.0
+ORD-2025-1232,2025-06-14,CUST-331,Consumer,Asia-Pacific,Technology,Smartphones,Medium,7,0.15,3340.66,491.37,19.91
+ORD-2025-1233,2025-06-14,CUST-135,Consumer,Europe,Office Supplies,Envelopes,High,5,0.15,327.07,49.14,23.45
+ORD-2025-1234,2025-06-13,CUST-124,Small Business,Asia-Pacific,Furniture,Tables,Low,5,0.05,1406.77,265.05,19.15
+ORD-2025-1235,2025-06-15,CUST-314,Consumer,Asia-Pacific,Technology,Accessories,Low,9,0.1,4378.03,571.76,32.43
+ORD-2025-1236,2025-06-16,CUST-303,Corporate,Europe,Office Supplies,Binders,Medium,9,0.0,655.77,180.32,43.43
+ORD-2025-1237,2025-06-16,CUST-197,Consumer,North America,Furniture,Lamps,Medium,9,0.0,2920.17,595.98,54.01
+ORD-2025-1238,2025-06-18,CUST-263,Small Business,Europe,Furniture,Ergonomic Chairs,Low,6,0.0,2601.13,785.0,30.75
+ORD-2025-1239,2025-06-19,CUST-200,Consumer,Asia-Pacific,Furniture,Lamps,Critical,6,0.05,2556.05,538.85,28.81
+ORD-2025-1240,2025-06-18,CUST-294,Consumer,Asia-Pacific,Office Supplies,Pens,Medium,5,0.05,333.12,69.24,22.93
+ORD-2025-1241,2025-06-18,CUST-108,Small Business,Asia-Pacific,Furniture,Ergonomic Chairs,Critical,9,0.05,3153.18,782.93,55.38
+ORD-2025-1242,2025-06-21,CUST-160,Small Business,Europe,Office Supplies,Pens,Medium,10,0.05,618.65,111.65,30.22
+ORD-2025-1243,2025-06-21,CUST-152,Consumer,Asia-Pacific,Technology,Smartphones,High,8,0.05,6051.22,1105.76,56.55
+ORD-2025-1244,2025-06-20,CUST-245,Small Business,North America,Office Supplies,Paper,Low,7,0.1,400.48,60.14,40.82
+ORD-2025-1245,2025-06-23,CUST-270,Consumer,Europe,Furniture,Tables,Low,7,0.15,2964.58,350.51,34.14
+ORD-2025-1246,2025-06-24,CUST-262,Consumer,North America,Electronics,Headphones,Critical,6,0.0,2083.6,378.11,50.12
+ORD-2025-1247,2025-06-24,CUST-162,Consumer,North America,Furniture,Lamps,High,5,0.0,1623.36,470.82,38.36
+ORD-2025-1248,2025-06-24,CUST-220,Consumer,North America,Electronics,Headphones,Low,4,0.1,854.75,185.77,14.48
+ORD-2025-1249,2025-06-26,CUST-346,Corporate,North America,Office Supplies,Envelopes,High,3,0.05,168.33,36.5,25.51
+ORD-2025-1250,2025-06-27,CUST-325,Consumer,Europe,Technology,Smartphones,Low,3,0.1,2066.1,203.25,16.81
+ORD-2025-1251,2025-06-27,CUST-204,Consumer,North America,Electronics,Headphones,Medium,6,0.0,1208.11,249.47,34.0
+ORD-2025-1252,2025-06-28,CUST-305,Corporate,Europe,Furniture,Bookcases,High,4,0.05,1843.25,487.13,44.91
+ORD-2025-1253,2025-06-27,CUST-103,Corporate,North America,Furniture,Tables,High,6,0.0,2024.23,489.38,24.38
+ORD-2025-1254,2025-06-27,CUST-192,Consumer,North America,Technology,Cloud Storage,High,3,0.0,1823.5,456.78,15.02
+ORD-2025-1255,2025-06-30,CUST-268,Corporate,North America,Furniture,Executive Desks,Medium,4,0.1,1234.92,279.03,31.25
+ORD-2025-1256,2025-06-30,CUST-272,Consumer,North America,Furniture,Bookcases,High,9,0.05,3449.69,481.37,30.65
+ORD-2025-1257,2025-06-29,CUST-277,Corporate,Europe,Furniture,Bookcases,Medium,5,0.15,2190.59,165.49,30.86
+ORD-2025-1258,2025-07-02,CUST-306,Corporate,Europe,Electronics,Keyboards,High,7,0.2,1021.48,78.62,19.28
+ORD-2025-1259,2025-07-01,CUST-127,Small Business,Europe,Technology,Cloud Storage,Medium,10,0.05,8174.01,2067.86,52.15
+ORD-2025-1260,2025-07-02,CUST-269,Consumer,Europe,Furniture,Ergonomic Chairs,Low,2,0.15,612.64,103.97,31.09
+ORD-2025-1261,2025-07-03,CUST-179,Consumer,North America,Furniture,Tables,Low,5,0.0,1922.16,514.27,15.96
+ORD-2025-1262,2025-07-05,CUST-175,Consumer,Asia-Pacific,Technology,Cloud Storage,High,9,0.05,4724.28,1140.54,30.53
+ORD-2025-1263,2025-07-06,CUST-215,Consumer,Europe,Furniture,Lamps,Medium,11,0.1,4396.3,654.67,56.13
+ORD-2025-1264,2025-07-05,CUST-168,Consumer,Europe,Office Supplies,Paper,Medium,3,0.05,262.44,68.55,22.51
+ORD-2025-1265,2025-07-06,CUST-197,Small Business,North America,Furniture,Lamps,Medium,9,0.05,2878.33,586.95,21.77
+ORD-2025-1266,2025-07-08,CUST-333,Consumer,North America,Technology,Laptops,Low,11,0.0,5491.68,1413.89,43.76
+ORD-2025-1267,2025-07-08,CUST-100,Consumer,North America,Furniture,Executive Desks,High,6,0.05,3132.49,519.23,26.55
+ORD-2025-1268,2025-07-08,CUST-266,Corporate,North America,Technology,Laptops,Critical,4,0.2,1725.32,238.88,42.78
+ORD-2025-1269,2025-07-08,CUST-195,Consumer,Europe,Electronics,Keyboards,Low,7,0.2,1781.66,243.0,37.92
+ORD-2025-1270,2025-07-09,CUST-317,Corporate,Europe,Technology,Cloud Storage,High,8,0.1,4988.11,704.59,41.8
+ORD-2025-1271,2025-07-10,CUST-116,Consumer,Europe,Office Supplies,Paper,Medium,6,0.1,374.87,59.31,51.67
+ORD-2025-1272,2025-07-10,CUST-211,Consumer,Asia-Pacific,Electronics,4K Monitors,Low,5,0.05,1640.26,408.44,43.5
+ORD-2025-1273,2025-07-12,CUST-190,Consumer,Asia-Pacific,Furniture,Bookcases,Critical,6,0.05,2656.36,427.01,19.19
+ORD-2025-1274,2025-07-11,CUST-187,Consumer,Asia-Pacific,Electronics,Microphones,Low,5,0.0,1480.21,417.46,17.24
+ORD-2025-1275,2025-07-12,CUST-262,Small Business,Latin America,Technology,Smartphones,High,8,0.05,6914.2,1038.93,30.58
+ORD-2025-1276,2025-07-15,CUST-273,Consumer,North America,Office Supplies,Storage Boxes,Medium,1,0.05,75.38,12.16,11.55
+ORD-2025-1277,2025-07-15,CUST-269,Corporate,North America,Furniture,Executive Desks,Medium,11,0.3,2872.75,92.61,39.81
+ORD-2025-1278,2025-07-14,CUST-345,Consumer,North America,Office Supplies,Pens,Low,7,0.05,521.76,114.08,19.32
+ORD-2025-1279,2025-07-15,CUST-266,Consumer,Europe,Technology,Laptops,Critical,10,0.05,8904.21,1275.97,58.81
+ORD-2025-1280,2025-07-18,CUST-189,Small Business,Asia-Pacific,Technology,Laptops,High,10,0.05,7008.04,1908.59,27.25
+ORD-2025-1281,2025-07-18,CUST-148,Consumer,North America,Technology,Cloud Storage,Medium,11,0.1,7035.3,835.31,26.39
+ORD-2025-1282,2025-07-19,CUST-289,Corporate,Latin America,Office Supplies,Paper,Medium,2,0.1,138.33,17.17,32.74
+ORD-2025-1283,2025-07-19,CUST-137,Small Business,North America,Electronics,4K Monitors,Medium,9,0.0,1789.9,405.37,50.42
+ORD-2025-1284,2025-07-18,CUST-250,Corporate,Latin America,Office Supplies,Paper,Critical,1,0.05,65.2,14.7,33.46
+ORD-2025-1285,2025-07-21,CUST-249,Small Business,North America,Technology,Software,High,11,0.15,8147.67,798.38,49.93
+ORD-2025-1286,2025-07-20,CUST-231,Consumer,North America,Electronics,Keyboards,High,10,0.05,3244.74,777.87,41.13
+ORD-2025-1287,2025-07-21,CUST-276,Consumer,Europe,Furniture,Bookcases,Medium,6,0.0,2716.63,770.32,39.65
+ORD-2025-1288,2025-07-22,CUST-158,Consumer,North America,Furniture,Executive Desks,High,9,0.1,2344.43,286.65,51.49
+ORD-2025-1289,2025-07-24,CUST-300,Corporate,North America,Technology,Cloud Storage,High,1,0.15,519.82,80.53,23.27
+ORD-2025-1290,2025-07-24,CUST-167,Small Business,North America,Office Supplies,Pens,Low,4,0.0,289.98,54.96,20.71
+ORD-2025-1291,2025-07-23,CUST-298,Consumer,Asia-Pacific,Technology,Cloud Storage,Critical,4,0.15,3138.28,555.85,38.13
+ORD-2025-1292,2025-07-26,CUST-314,Corporate,Europe,Office Supplies,Envelopes,Low,9,0.15,532.93,78.4,44.39
+ORD-2025-1293,2025-07-25,CUST-229,Consumer,North America,Electronics,Keyboards,Medium,11,0.05,2879.15,419.74,47.91
+ORD-2025-1294,2025-07-25,CUST-148,Corporate,Europe,Technology,Accessories,Medium,5,0.3,2930.76,188.07,15.91
+ORD-2025-1295,2025-07-27,CUST-315,Consumer,Asia-Pacific,Furniture,Tables,High,5,0.15,2036.71,269.97,31.56
+ORD-2025-1296,2025-07-28,CUST-331,Small Business,North America,Technology,Smartphones,Critical,6,0.15,2782.28,305.42,30.11
+ORD-2025-1297,2025-07-28,CUST-346,Corporate,Europe,Furniture,Ergonomic Chairs,Medium,1,0.1,329.0,64.92,35.43
+ORD-2025-1298,2025-07-29,CUST-225,Consumer,North America,Furniture,Lamps,Medium,1,0.0,441.68,137.54,22.44
+ORD-2025-1299,2025-07-30,CUST-322,Consumer,North America,Furniture,Lamps,Medium,9,0.0,3148.66,855.89,28.86
+ORD-2025-1300,2025-08-01,CUST-338,Consumer,Europe,Office Supplies,Envelopes,Critical,3,0.05,179.79,30.37,15.06
+ORD-2025-1301,2025-07-30,CUST-258,Consumer,North America,Furniture,Lamps,Medium,4,0.0,2020.46,435.68,31.5
+ORD-2025-1302,2025-07-31,CUST-210,Consumer,Europe,Office Supplies,Pens,Medium,1,0.05,48.18,11.34,21.73
+ORD-2025-1303,2025-08-01,CUST-267,Small Business,Asia-Pacific,Office Supplies,Pens,Medium,9,0.2,594.98,40.3,28.74
+ORD-2025-1304,2025-08-01,CUST-147,Corporate,North America,Office Supplies,Envelopes,Medium,8,0.15,490.28,34.7,36.3
+ORD-2025-1305,2025-08-03,CUST-150,Corporate,Europe,Office Supplies,Pens,Medium,2,0.1,113.74,25.33,13.25
+ORD-2025-1306,2025-08-03,CUST-142,Consumer,North America,Office Supplies,Binders,Medium,8,0.2,514.1,18.29,31.8
+ORD-2025-1307,2025-08-05,CUST-197,Small Business,Latin America,Furniture,Bookcases,Critical,7,0.15,2353.38,422.72,27.48
+ORD-2025-1308,2025-08-06,CUST-282,Corporate,Europe,Furniture,Executive Desks,High,11,0.05,3232.06,588.61,28.37
+ORD-2025-1309,2025-08-05,CUST-315,Consumer,Asia-Pacific,Electronics,4K Monitors,Critical,6,0.0,1209.63,314.91,19.25
+ORD-2025-1310,2025-08-06,CUST-276,Corporate,Europe,Office Supplies,Binders,High,1,0.05,47.65,11.32,22.88
+ORD-2025-1311,2025-08-08,CUST-223,Corporate,North America,Technology,Laptops,High,7,0.1,3430.64,447.72,42.26
+ORD-2025-1312,2025-08-09,CUST-317,Consumer,Europe,Furniture,Ergonomic Chairs,Critical,10,0.05,3403.78,703.67,27.5
+ORD-2025-1313,2025-08-09,CUST-179,Consumer,Latin America,Furniture,Executive Desks,High,7,0.1,2781.03,387.26,41.7
+ORD-2025-1314,2025-08-10,CUST-284,Consumer,Europe,Electronics,Webcams,Critical,9,0.0,2842.29,755.0,32.44
+ORD-2025-1315,2025-08-10,CUST-210,Consumer,Asia-Pacific,Technology,Cloud Storage,Medium,1,0.1,543.48,76.54,15.59
+ORD-2025-1316,2025-08-11,CUST-304,Small Business,Asia-Pacific,Technology,Cloud Storage,Low,2,0.15,968.89,158.12,25.24
+ORD-2025-1317,2025-08-11,CUST-242,Small Business,North America,Furniture,Ergonomic Chairs,Critical,11,0.1,3969.65,707.26,46.32
+ORD-2025-1318,2025-08-12,CUST-126,Corporate,North America,Furniture,Ergonomic Chairs,Low,9,0.3,1908.41,79.04,28.06
+ORD-2025-1319,2025-08-13,CUST-295,Consumer,Europe,Electronics,Webcams,Medium,9,0.15,2306.29,370.56,47.95
+ORD-2025-1320,2025-08-13,CUST-307,Consumer,Europe,Technology,Software,High,6,0.2,3604.49,43.42,30.33
+ORD-2025-1321,2025-08-15,CUST-291,Corporate,Asia-Pacific,Electronics,Headphones,Critical,6,0.2,1351.74,86.84,48.95
+ORD-2025-1322,2025-08-15,CUST-321,Corporate,Latin America,Technology,Laptops,Medium,4,0.15,2135.22,199.85,23.84
+ORD-2025-1323,2025-08-17,CUST-335,Consumer,North America,Electronics,Microphones,Medium,4,0.1,849.27,146.95,40.16
+ORD-2025-1324,2025-08-17,CUST-257,Corporate,North America,Technology,Accessories,Medium,5,0.0,3944.84,1156.16,48.28
+ORD-2025-1325,2025-08-17,CUST-263,Small Business,Asia-Pacific,Technology,Smartphones,Critical,3,0.05,2447.63,343.04,39.73
+ORD-2025-1326,2025-08-17,CUST-294,Consumer,North America,Office Supplies,Envelopes,Critical,1,0.05,55.32,8.64,33.12
+ORD-2025-1327,2025-08-18,CUST-313,Consumer,Asia-Pacific,Electronics,Headphones,High,1,0.0,233.72,43.94,14.59
+ORD-2025-1328,2025-08-18,CUST-212,Corporate,Europe,Electronics,Headphones,High,7,0.0,1261.09,386.46,19.41
+ORD-2025-1329,2025-08-21,CUST-185,Consumer,Europe,Office Supplies,Paper,High,1,0.3,40.8,-0.68,22.69
+ORD-2025-1330,2025-08-19,CUST-213,Consumer,North America,Electronics,Webcams,High,1,0.2,266.54,4.17,28.45
+ORD-2025-1331,2025-08-20,CUST-348,Consumer,Europe,Technology,Accessories,Medium,3,0.15,2032.65,371.85,35.45
+ORD-2025-1332,2025-08-21,CUST-341,Consumer,Europe,Electronics,Microphones,Low,10,0.05,2992.79,446.59,37.28
+ORD-2025-1333,2025-08-24,CUST-346,Corporate,Europe,Furniture,Tables,High,4,0.0,1537.88,467.64,19.6
+ORD-2025-1334,2025-08-24,CUST-223,Corporate,North America,Office Supplies,Paper,Low,4,0.0,222.64,50.32,16.02
+ORD-2025-1335,2025-08-23,CUST-148,Consumer,Asia-Pacific,Electronics,4K Monitors,High,2,0.0,421.31,132.77,26.84
+ORD-2025-1336,2025-08-24,CUST-175,Small Business,Asia-Pacific,Office Supplies,Storage Boxes,High,1,0.0,77.51,21.83,23.08
+ORD-2025-1337,2025-08-25,CUST-154,Small Business,North America,Furniture,Tables,High,3,0.0,972.49,203.17,24.09
+ORD-2025-1338,2025-08-25,CUST-312,Small Business,North America,Furniture,Executive Desks,Medium,11,0.2,3996.91,262.83,24.75
+ORD-2025-1339,2025-08-27,CUST-155,Consumer,North America,Electronics,Webcams,Low,4,0.1,964.56,216.07,44.05
+ORD-2025-1340,2025-08-26,CUST-295,Consumer,Europe,Technology,Laptops,Medium,3,0.0,2588.91,754.17,24.48
+ORD-2025-1341,2025-08-28,CUST-194,Small Business,Europe,Electronics,Webcams,High,8,0.0,2468.42,493.79,44.34
+ORD-2025-1342,2025-08-30,CUST-143,Corporate,Europe,Office Supplies,Envelopes,Medium,10,0.05,740.44,104.46,52.15
+ORD-2025-1343,2025-08-29,CUST-258,Consumer,North America,Technology,Software,Critical,1,0.0,898.48,195.36,39.56
+ORD-2025-1344,2025-08-29,CUST-285,Consumer,North America,Office Supplies,Pens,Low,2,0.2,84.0,7.9,28.97
+ORD-2025-1345,2025-08-30,CUST-186,Consumer,Europe,Furniture,Ergonomic Chairs,Medium,7,0.05,2860.93,764.35,50.74
+ORD-2025-1346,2025-08-31,CUST-345,Small Business,Europe,Office Supplies,Envelopes,High,4,0.05,320.99,56.44,47.74
+ORD-2025-1347,2025-09-01,CUST-280,Corporate,Latin America,Office Supplies,Paper,Medium,8,0.05,404.22,103.87,32.14
+ORD-2025-1348,2025-09-01,CUST-183,Consumer,North America,Technology,Smartphones,Medium,11,0.0,5631.63,1541.43,33.06
+ORD-2025-1349,2025-09-04,CUST-306,Consumer,Europe,Furniture,Lamps,Critical,3,0.1,944.43,130.19,14.86
+ORD-2025-1350,2025-09-04,CUST-250,Corporate,Europe,Electronics,Headphones,Medium,6,0.1,1132.69,108.42,33.48
+ORD-2025-1351,2025-09-03,CUST-255,Small Business,Europe,Furniture,Ergonomic Chairs,High,9,0.1,2490.04,474.53,30.22
+ORD-2025-1352,2025-09-06,CUST-115,Consumer,Asia-Pacific,Office Supplies,Paper,Medium,1,0.0,91.68,27.69,20.21
+ORD-2025-1353,2025-09-05,CUST-264,Corporate,Europe,Furniture,Tables,Medium,1,0.05,468.67,117.15,46.0
+ORD-2025-1354,2025-09-05,CUST-248,Small Business,Latin America,Furniture,Bookcases,Medium,8,0.05,3374.59,502.73,43.93
+ORD-2025-1355,2025-09-08,CUST-306,Consumer,North America,Furniture,Bookcases,Medium,3,0.2,1082.99,107.62,23.86
+ORD-2025-1356,2025-09-07,CUST-244,Corporate,North America,Furniture,Executive Desks,Medium,5,0.05,2439.96,663.24,23.56
+ORD-2025-1357,2025-09-09,CUST-341,Consumer,Asia-Pacific,Technology,Software,Critical,1,0.05,501.23,82.57,39.86
+ORD-2025-1358,2025-09-09,CUST-136,Corporate,Europe,Office Supplies,Envelopes,Medium,5,0.1,357.92,65.87,30.37
+ORD-2025-1359,2025-09-09,CUST-176,Corporate,North America,Technology,Cloud Storage,High,11,0.1,7429.08,1025.97,42.16
+ORD-2025-1360,2025-09-10,CUST-246,Corporate,North America,Technology,Smartphones,High,6,0.05,4835.56,1329.17,51.5
+ORD-2025-1361,2025-09-12,CUST-257,Corporate,North America,Technology,Smartphones,High,8,0.05,6934.31,1343.95,37.35
+ORD-2025-1362,2025-09-12,CUST-144,Consumer,Asia-Pacific,Technology,Cloud Storage,Critical,3,0.05,2304.41,614.37,17.75
+ORD-2025-1363,2025-09-13,CUST-245,Small Business,North America,Furniture,Lamps,Medium,3,0.2,878.23,25.9,35.14
+ORD-2025-1364,2025-09-14,CUST-305,Corporate,North America,Office Supplies,Pens,Critical,11,0.05,655.08,119.98,27.12
+ORD-2025-1365,2025-09-14,CUST-161,Consumer,North America,Office Supplies,Storage Boxes,Medium,11,0.2,569.06,74.4,33.12
+ORD-2025-1366,2025-09-15,CUST-263,Corporate,North America,Technology,Cloud Storage,High,10,0.05,7636.2,1723.09,54.95
+ORD-2025-1367,2025-09-16,CUST-199,Corporate,North America,Electronics,Microphones,Critical,9,0.2,1456.02,213.83,43.06
+ORD-2025-1368,2025-09-16,CUST-311,Consumer,Europe,Office Supplies,Paper,Medium,4,0.15,319.75,57.59,22.2
+ORD-2025-1369,2025-09-18,CUST-151,Small Business,North America,Furniture,Executive Desks,Critical,4,0.05,1139.77,197.51,33.52
+ORD-2025-1370,2025-09-18,CUST-118,Small Business,Asia-Pacific,Electronics,Microphones,High,7,0.2,1169.44,39.11,35.62
+ORD-2025-1371,2025-09-19,CUST-208,Consumer,North America,Electronics,Microphones,Medium,2,0.0,371.18,73.15,26.39
+ORD-2025-1372,2025-09-20,CUST-143,Small Business,Europe,Technology,Accessories,Critical,8,0.2,3303.83,216.55,37.54
+ORD-2025-1373,2025-09-20,CUST-106,Consumer,Asia-Pacific,Furniture,Executive Desks,Medium,6,0.1,2187.2,473.93,36.61
+ORD-2025-1374,2025-09-20,CUST-348,Consumer,Europe,Electronics,Webcams,Critical,3,0.0,775.86,184.27,42.75
+ORD-2025-1375,2025-09-21,CUST-271,Consumer,Europe,Office Supplies,Binders,High,9,0.1,724.75,155.43,46.42
+ORD-2025-1376,2025-09-21,CUST-216,Small Business,North America,Technology,Accessories,Medium,5,0.3,1925.0,-69.76,17.2
+ORD-2025-1377,2025-09-21,CUST-167,Corporate,North America,Office Supplies,Pens,High,8,0.0,728.82,198.61,47.62
+ORD-2025-1378,2025-09-22,CUST-133,Consumer,Europe,Electronics,Microphones,Critical,7,0.05,1545.09,395.38,28.11
+ORD-2025-1379,2025-09-25,CUST-293,Consumer,Latin America,Office Supplies,Paper,High,8,0.1,351.54,51.92,41.12
+ORD-2025-1380,2025-09-25,CUST-168,Corporate,Europe,Office Supplies,Envelopes,High,7,0.15,419.66,72.68,22.4
+ORD-2025-1381,2025-09-26,CUST-154,Consumer,Europe,Electronics,Keyboards,Medium,3,0.05,778.17,162.88,22.91
+ORD-2025-1382,2025-09-25,CUST-109,Small Business,Asia-Pacific,Technology,Laptops,High,2,0.0,1723.23,491.81,38.12
+ORD-2025-1383,2025-09-27,CUST-323,Small Business,Europe,Technology,Accessories,Medium,7,0.0,6203.17,1744.27,27.08
+ORD-2025-1384,2025-09-28,CUST-141,Corporate,North America,Office Supplies,Envelopes,Low,3,0.05,230.43,41.61,21.46
+ORD-2025-1385,2025-09-28,CUST-140,Small Business,Europe,Electronics,4K Monitors,High,3,0.05,547.95,132.42,38.81
+ORD-2025-1386,2025-09-30,CUST-304,Consumer,Latin America,Furniture,Tables,Low,2,0.2,555.8,63.87,44.96
+ORD-2025-1387,2025-09-29,CUST-330,Small Business,North America,Office Supplies,Envelopes,High,4,0.0,214.66,45.63,41.76
+ORD-2025-1388,2025-09-29,CUST-296,Corporate,Europe,Office Supplies,Pens,Low,8,0.1,440.93,80.45,23.0
+ORD-2025-1389,2025-09-30,CUST-221,Corporate,North America,Furniture,Ergonomic Chairs,Critical,1,0.0,405.29,114.89,34.9
+ORD-2025-1390,2025-10-02,CUST-237,Consumer,Europe,Office Supplies,Pens,Medium,1,0.0,85.84,26.0,38.11
+ORD-2025-1391,2025-10-03,CUST-109,Small Business,North America,Electronics,Headphones,High,5,0.05,1390.93,197.43,35.29
+ORD-2025-1392,2025-10-02,CUST-201,Consumer,Europe,Office Supplies,Storage Boxes,High,11,0.05,527.36,132.17,36.37
+ORD-2025-1393,2025-10-03,CUST-318,Consumer,Asia-Pacific,Furniture,Bookcases,Medium,5,0.1,1955.73,262.31,44.45
+ORD-2025-1394,2025-10-03,CUST-287,Consumer,North America,Furniture,Lamps,Medium,11,0.2,4583.13,301.62,56.43
+ORD-2025-1395,2025-10-05,CUST-227,Corporate,Europe,Office Supplies,Pens,Critical,1,0.1,54.81,9.31,41.27
+ORD-2025-1396,2025-10-06,CUST-278,Corporate,Asia-Pacific,Furniture,Bookcases,High,6,0.3,1561.07,91.43,21.51
+ORD-2025-1397,2025-10-07,CUST-248,Corporate,Latin America,Furniture,Tables,Medium,1,0.2,231.89,31.67,12.04
+ORD-2025-1398,2025-10-08,CUST-235,Small Business,North America,Furniture,Executive Desks,Medium,5,0.05,2607.0,705.7,20.57
+ORD-2025-1399,2025-10-09,CUST-292,Consumer,North America,Technology,Laptops,Low,9,0.15,5600.57,439.02,37.34
+ORD-2025-1400,2025-10-09,CUST-191,Corporate,North America,Technology,Accessories,Medium,5,0.1,2319.52,293.07,28.94
+ORD-2025-1401,2025-10-09,CUST-212,Consumer,Latin America,Furniture,Executive Desks,Low,6,0.0,2410.08,763.63,46.89
+ORD-2025-1402,2025-10-11,CUST-330,Small Business,Latin America,Furniture,Executive Desks,Medium,8,0.1,3464.29,589.57,51.08
+ORD-2025-1403,2025-10-12,CUST-177,Small Business,Europe,Furniture,Bookcases,High,11,0.0,4127.86,1152.69,61.27
+ORD-2025-1404,2025-10-11,CUST-184,Corporate,Asia-Pacific,Office Supplies,Pens,Critical,1,0.05,59.91,13.89,40.74
+ORD-2025-1405,2025-10-13,CUST-129,Corporate,Europe,Office Supplies,Binders,Medium,2,0.1,162.75,31.82,21.49
+ORD-2025-1406,2025-10-12,CUST-312,Consumer,Europe,Technology,Software,Medium,9,0.0,5723.63,1046.89,49.65
+ORD-2025-1407,2025-10-13,CUST-148,Consumer,North America,Electronics,Headphones,Critical,3,0.0,561.54,169.05,16.89
+ORD-2025-1408,2025-10-15,CUST-108,Small Business,Asia-Pacific,Furniture,Tables,High,6,0.2,1587.45,121.78,44.3
+ORD-2025-1409,2025-10-15,CUST-244,Consumer,North America,Office Supplies,Pens,Low,5,0.1,247.84,38.81,33.37
+ORD-2025-1410,2025-10-15,CUST-168,Consumer,Asia-Pacific,Office Supplies,Storage Boxes,Medium,11,0.0,642.5,126.04,55.45
+ORD-2025-1411,2025-10-16,CUST-157,Consumer,Asia-Pacific,Electronics,Headphones,High,2,0.1,475.95,46.17,40.71
+ORD-2025-1412,2025-10-17,CUST-284,Small Business,Asia-Pacific,Office Supplies,Pens,High,7,0.05,620.95,138.06,37.14
+ORD-2025-1413,2025-10-18,CUST-161,Consumer,North America,Office Supplies,Envelopes,High,4,0.05,337.13,91.31,41.92
+ORD-2025-1414,2025-10-18,CUST-322,Consumer,North America,Office Supplies,Paper,High,1,0.3,48.31,0.38,35.43
+ORD-2025-1415,2025-10-18,CUST-151,Corporate,North America,Technology,Laptops,High,4,0.1,2073.22,326.76,44.7
+ORD-2025-1416,2025-10-20,CUST-288,Small Business,North America,Technology,Laptops,Critical,6,0.05,4476.78,873.28,41.54
+ORD-2025-1417,2025-10-20,CUST-139,Consumer,North America,Office Supplies,Binders,Medium,7,0.15,322.07,35.01,47.85
+ORD-2025-1418,2025-10-22,CUST-265,Consumer,Latin America,Furniture,Lamps,High,7,0.2,1924.47,69.35,53.68
+ORD-2025-1419,2025-10-22,CUST-270,Consumer,Europe,Office Supplies,Pens,Medium,7,0.0,408.1,88.37,54.38
+ORD-2025-1420,2025-10-24,CUST-162,Consumer,North America,Technology,Accessories,Low,3,0.0,2465.38,685.24,44.06
+ORD-2025-1421,2025-10-22,CUST-246,Consumer,North America,Furniture,Bookcases,High,6,0.0,1894.85,528.35,35.64
+ORD-2025-1422,2025-10-23,CUST-327,Corporate,Europe,Furniture,Executive Desks,Medium,8,0.1,3639.99,604.75,42.95
+ORD-2025-1423,2025-10-24,CUST-149,Corporate,Europe,Furniture,Ergonomic Chairs,High,4,0.1,1483.49,240.24,42.41
+ORD-2025-1424,2025-10-24,CUST-260,Corporate,Europe,Office Supplies,Binders,Low,8,0.1,556.92,102.28,36.66
+ORD-2025-1425,2025-10-27,CUST-240,Consumer,Latin America,Furniture,Lamps,High,2,0.2,682.04,78.03,41.56
+ORD-2025-1426,2025-10-27,CUST-177,Small Business,Europe,Furniture,Lamps,Medium,10,0.15,3997.43,727.01,53.35
+ORD-2025-1427,2025-10-26,CUST-347,Consumer,Latin America,Furniture,Tables,Medium,9,0.0,3910.1,1071.36,55.77
+ORD-2025-1428,2025-10-28,CUST-196,Small Business,Asia-Pacific,Furniture,Tables,High,9,0.0,4047.29,1195.86,46.99
+ORD-2025-1429,2025-10-30,CUST-289,Corporate,North America,Office Supplies,Storage Boxes,Critical,8,0.05,561.36,96.19,35.76
+ORD-2025-1430,2025-10-31,CUST-320,Consumer,Latin America,Technology,Software,Medium,10,0.05,8814.32,2023.65,43.88
+ORD-2025-1431,2025-10-31,CUST-142,Corporate,North America,Office Supplies,Storage Boxes,Medium,10,0.1,820.8,145.37,42.47
+ORD-2025-1432,2025-10-30,CUST-276,Consumer,Asia-Pacific,Office Supplies,Binders,High,1,0.2,66.64,7.32,16.65
+ORD-2025-1433,2025-11-01,CUST-135,Corporate,North America,Office Supplies,Storage Boxes,Medium,2,0.0,140.39,34.56,24.99
+ORD-2025-1434,2025-11-01,CUST-221,Consumer,Asia-Pacific,Office Supplies,Envelopes,High,6,0.05,412.04,80.49,24.38
+ORD-2025-1435,2025-11-02,CUST-207,Consumer,Asia-Pacific,Electronics,4K Monitors,Medium,10,0.15,2118.86,132.68,44.3
+ORD-2025-1436,2025-11-04,CUST-109,Small Business,Asia-Pacific,Electronics,Keyboards,High,5,0.05,1536.22,367.22,28.83
+ORD-2025-1437,2025-11-02,CUST-194,Consumer,Asia-Pacific,Furniture,Ergonomic Chairs,Low,9,0.0,2773.45,577.71,41.68
+ORD-2025-1438,2025-11-05,CUST-105,Small Business,North America,Technology,Smartphones,High,5,0.05,2763.13,590.36,24.07
+ORD-2025-1439,2025-11-06,CUST-156,Consumer,North America,Furniture,Ergonomic Chairs,High,2,0.0,1021.63,240.71,20.09
+ORD-2025-1440,2025-11-06,CUST-228,Corporate,Europe,Technology,Smartphones,Critical,10,0.2,6856.87,397.68,27.13
+ORD-2025-1441,2025-11-07,CUST-170,Corporate,North America,Office Supplies,Envelopes,Critical,4,0.0,298.81,78.11,40.44
+ORD-2025-1442,2025-11-07,CUST-285,Corporate,Europe,Electronics,Headphones,Medium,9,0.05,1884.05,376.11,31.95
+ORD-2025-1443,2025-11-07,CUST-318,Consumer,North America,Technology,Smartphones,High,1,0.05,498.12,129.62,36.47
+ORD-2025-1444,2025-11-08,CUST-120,Consumer,Latin America,Technology,Cloud Storage,Medium,11,0.3,4809.93,42.87,31.95
+ORD-2025-1445,2025-11-08,CUST-191,Consumer,Europe,Technology,Software,Critical,1,0.0,892.56,175.02,9.64
+ORD-2025-1446,2025-11-10,CUST-226,Consumer,Asia-Pacific,Office Supplies,Storage Boxes,High,7,0.0,501.14,131.12,39.92
+ORD-2025-1447,2025-11-11,CUST-179,Corporate,North America,Office Supplies,Envelopes,High,11,0.0,563.53,126.21,42.97
+ORD-2025-1448,2025-11-12,CUST-155,Small Business,Asia-Pacific,Technology,Accessories,Critical,3,0.0,1758.13,531.25,15.72
+ORD-2025-1449,2025-11-11,CUST-337,Small Business,Latin America,Electronics,Keyboards,Critical,10,0.0,2618.81,724.88,32.68
+ORD-2025-1450,2025-11-12,CUST-314,Corporate,Europe,Office Supplies,Pens,High,2,0.1,138.88,29.32,18.04
+ORD-2025-1451,2025-11-12,CUST-215,Corporate,Europe,Technology,Software,High,9,0.0,8143.52,2096.94,32.57
+ORD-2025-1452,2025-11-14,CUST-247,Corporate,Asia-Pacific,Office Supplies,Pens,High,3,0.0,205.06,45.87,39.33
+ORD-2025-1453,2025-11-15,CUST-329,Consumer,North America,Office Supplies,Envelopes,Medium,2,0.15,144.47,24.43,47.47
+ORD-2025-1454,2025-11-14,CUST-281,Small Business,Europe,Furniture,Ergonomic Chairs,Medium,8,0.05,3765.66,834.82,32.55
+ORD-2025-1455,2025-11-17,CUST-124,Corporate,North America,Technology,Accessories,Critical,10,0.05,6985.26,1000.64,50.56
+ORD-2025-1456,2025-11-17,CUST-255,Corporate,North America,Technology,Accessories,High,6,0.0,4142.46,757.26,19.31
+ORD-2025-1457,2025-11-17,CUST-104,Consumer,North America,Technology,Smartphones,Low,6,0.3,2787.95,18.62,34.18
+ORD-2025-1458,2025-11-18,CUST-219,Consumer,North America,Electronics,Headphones,Medium,10,0.0,2840.26,702.23,47.48
+ORD-2025-1459,2025-11-18,CUST-120,Consumer,North America,Electronics,Headphones,Medium,11,0.2,1907.96,49.22,46.57
+ORD-2025-1460,2025-11-19,CUST-117,Small Business,North America,Technology,Smartphones,High,7,0.15,4212.8,237.02,32.58
+ORD-2025-1461,2025-11-19,CUST-274,Corporate,Latin America,Technology,Cloud Storage,Medium,7,0.0,3750.51,954.09,33.14
+ORD-2025-1462,2025-11-20,CUST-297,Consumer,Europe,Technology,Software,Medium,11,0.3,5901.93,223.0,35.59
+ORD-2025-1463,2025-11-21,CUST-156,Small Business,Latin America,Technology,Laptops,Medium,6,0.0,5551.54,1415.58,39.88
+ORD-2025-1464,2025-11-23,CUST-192,Consumer,Europe,Electronics,Webcams,Low,4,0.0,1177.41,321.84,32.91
+ORD-2025-1465,2025-11-24,CUST-118,Consumer,North America,Furniture,Tables,Critical,11,0.15,3731.13,223.98,25.32
+ORD-2025-1466,2025-11-23,CUST-227,Consumer,Europe,Furniture,Ergonomic Chairs,Critical,9,0.1,3079.76,436.44,35.84
+ORD-2025-1467,2025-11-24,CUST-196,Corporate,Europe,Technology,Cloud Storage,Medium,6,0.1,2972.47,589.57,48.71
+ORD-2025-1468,2025-11-24,CUST-292,Small Business,North America,Office Supplies,Pens,Medium,4,0.0,365.85,91.07,39.93
+ORD-2025-1469,2025-11-27,CUST-336,Consumer,Europe,Furniture,Bookcases,Critical,3,0.05,1460.84,286.41,23.95
+ORD-2025-1470,2025-11-28,CUST-230,Small Business,North America,Office Supplies,Storage Boxes,High,4,0.15,310.66,38.74,32.4
+ORD-2025-1471,2025-11-27,CUST-269,Consumer,Europe,Technology,Smartphones,Critical,3,0.0,1706.04,332.92,43.66
+ORD-2025-1472,2025-11-29,CUST-120,Small Business,Europe,Office Supplies,Storage Boxes,High,2,0.0,153.39,34.61,18.09
+ORD-2025-1473,2025-11-28,CUST-326,Corporate,North America,Office Supplies,Envelopes,Medium,5,0.0,370.13,96.88,23.16
+ORD-2025-1474,2025-11-29,CUST-332,Small Business,North America,Technology,Accessories,Medium,2,0.0,1749.78,335.6,24.18
+ORD-2025-1475,2025-11-29,CUST-139,Consumer,Asia-Pacific,Furniture,Bookcases,High,6,0.2,2236.71,108.2,47.62
+ORD-2025-1476,2025-11-30,CUST-166,Small Business,Europe,Electronics,4K Monitors,High,3,0.05,867.25,215.05,16.91
+ORD-2025-1477,2025-12-01,CUST-252,Corporate,North America,Electronics,Keyboards,Critical,6,0.3,855.17,-29.84,36.17
+ORD-2025-1478,2025-12-01,CUST-226,Consumer,Latin America,Furniture,Lamps,High,11,0.05,5057.51,1287.71,50.56
+ORD-2025-1479,2025-12-04,CUST-336,Small Business,North America,Furniture,Tables,Medium,10,0.1,4788.06,950.07,34.33
+ORD-2025-1480,2025-12-03,CUST-329,Consumer,Europe,Electronics,Microphones,Low,9,0.0,2020.8,560.71,28.64
+ORD-2025-1481,2025-12-04,CUST-336,Small Business,Latin America,Office Supplies,Pens,Medium,1,0.05,50.32,10.67,39.9
+ORD-2025-1482,2025-12-05,CUST-154,Consumer,North America,Technology,Accessories,Critical,6,0.0,3201.77,931.28,47.03
+ORD-2025-1483,2025-12-06,CUST-311,Corporate,North America,Electronics,Keyboards,Low,9,0.0,2349.2,441.7,27.96
+ORD-2025-1484,2025-12-05,CUST-279,Corporate,North America,Technology,Accessories,Medium,11,0.05,8458.01,2005.81,57.74
+ORD-2025-1485,2025-12-07,CUST-271,Consumer,North America,Office Supplies,Paper,Medium,4,0.3,210.73,-12.14,18.49
+ORD-2025-1486,2025-12-08,CUST-208,Consumer,North America,Technology,Cloud Storage,High,11,0.1,8074.59,974.84,36.65
+ORD-2025-1487,2025-12-07,CUST-197,Consumer,Europe,Technology,Accessories,High,2,0.0,1418.36,260.22,20.21
+ORD-2025-1488,2025-12-10,CUST-312,Consumer,North America,Furniture,Bookcases,High,4,0.0,1573.99,344.94,19.05
+ORD-2025-1489,2025-12-09,CUST-283,Consumer,Europe,Office Supplies,Paper,Critical,1,0.0,81.87,24.06,19.03
+ORD-2025-1490,2025-12-11,CUST-282,Corporate,Latin America,Technology,Smartphones,High,3,0.05,2393.6,458.32,31.25
+ORD-2025-1491,2025-12-11,CUST-211,Consumer,Asia-Pacific,Technology,Software,High,10,0.15,7454.33,1174.01,52.79
+ORD-2025-1492,2025-12-11,CUST-314,Consumer,Europe,Technology,Smartphones,High,9,0.2,3958.3,78.22,54.56
+ORD-2025-1493,2025-12-14,CUST-297,Corporate,North America,Furniture,Tables,Medium,10,0.0,3881.64,855.14,49.81
+ORD-2025-1494,2025-12-13,CUST-214,Consumer,Europe,Electronics,Webcams,High,5,0.05,1522.46,393.17,27.19
+ORD-2025-1495,2025-12-14,CUST-216,Small Business,Europe,Furniture,Ergonomic Chairs,Critical,11,0.05,5347.14,765.87,26.34
+ORD-2025-1496,2025-12-15,CUST-304,Small Business,Europe,Office Supplies,Paper,Low,6,0.1,416.45,43.24,29.01
+ORD-2025-1497,2025-12-14,CUST-340,Corporate,North America,Electronics,Keyboards,Low,3,0.05,835.12,154.26,19.15
+ORD-2025-1498,2025-12-16,CUST-186,Corporate,Asia-Pacific,Furniture,Executive Desks,Medium,5,0.1,1619.28,257.56,33.09
+ORD-2025-1499,2025-12-18,CUST-300,Small Business,Europe,Technology,Software,Low,11,0.1,8353.27,1670.83,41.4

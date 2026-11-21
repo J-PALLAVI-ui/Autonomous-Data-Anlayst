@@ -1,0 +1,8 @@
+**/node_modules
+**/.git
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+paper/
+Autonomous_Data_Analyst_Platform.pptx
